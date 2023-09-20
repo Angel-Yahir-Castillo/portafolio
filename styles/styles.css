@@ -18,3 +18,39 @@ body{
     border-radius: 50%;
     background: linear-gradient(130deg,#74b9ff, #e66767);
 }
+
+.cuadro{
+    border: 3px solid #FFF095;
+    border-radius: 15px;
+    background-color: #FFF8CE;
+    padding: 10px;
+}
+
+.descripcion{
+    background-color: #74b9ff;
+    color: #fff;
+    margin: 10px;
+}
+
+.habilidades{
+    border: 3px solid gray;
+    background-color: #FFF8CE;
+    color: #8F2A2A;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+.tecnologias{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+}
+
+.tecnologias li{
+    color: #fff;
+    background-color: #8F2A2A;
+    padding: 2px;
+    border-radius: 2px;
+}
