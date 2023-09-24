@@ -54,3 +54,39 @@ body{
     padding: 2px;
     border-radius: 2px;
 }
+
+.logo{
+    width: 50px;
+}
+
+.perfil{
+    width: 80%;
+}
+
+
+.elementos{
+    margin: 25px auto 50px;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
+.elementos a{
+    color: white;
+    width: 50px;
+    font-size: 22px;
+}
+.elementos i{
+    transition: .3s ease-in-out;
+}
+.elementos .fa-instagram:hover{
+    color: #056991;
+}
+.elementos .fa-whatsapp:hover{
+    color: #056991;
+}
+.elementos .fa-github:hover{
+    color: #056991;
+}
+.elementos .fa-linkedin:hover{
+    color: #056991;
+}
