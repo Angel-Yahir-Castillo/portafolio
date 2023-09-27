@@ -8,7 +8,7 @@ const CACHE_NAME = 'v1_cache_portafolio',
     'proyectos.html',
     'sobre-mi.html',
     'testimonios.html',
-    'imagenes/*'
+    'imagenes/foto.png'
   ]
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos
