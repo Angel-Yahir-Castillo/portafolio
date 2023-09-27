@@ -2,12 +2,13 @@
 //asignar un nombre y versión al cache
 const CACHE_NAME = 'v1_cache_portafolio',
   urlsToCache = [
-    './',
-    './styles/styles.css',
-    './contacto.html',
-    './proyectos.html',
-    './sobre-mi.html',
-    './testimonios.html'
+    '/',
+    'styles/styles.css',
+    'contacto.html',
+    'proyectos.html',
+    'sobre-mi.html',
+    'testimonios.html',
+    'imagenes'
   ]
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos
