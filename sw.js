@@ -3,7 +3,7 @@
 const CACHE_NAME = 'v1_cache_portafolio',
   urlsToCache = [
     './',
-    './styles',
+    './styles/styles.css',
     './contacto.html',
     './proyectos.html',
     './sobre-mi.html',
